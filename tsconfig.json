@@ -1,11 +1,7 @@
 {
-	"compilerOptions": {
-		"target": "ESNext",
-		"module": "commonjs",
-		"strict": true,
-		"esModuleInterop": true,
-		"skipLibCheck": true,
-		"forceConsistentCasingInFileNames": true,
-		"types": ["node"]
-	}
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "bundler"
+  }
 }
